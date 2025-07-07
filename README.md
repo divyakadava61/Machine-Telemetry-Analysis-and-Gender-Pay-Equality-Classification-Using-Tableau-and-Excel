@@ -65,6 +65,8 @@ Solving these problems was crucial for improving both equipment efficiency and w
   
 =IF(ABS([@EqualityScore])<=10, "Fair", IF(ABS([@EqualityScore])<=20, "Unfair", "Highly Discriminative"))
 
+<a href ="https://github.com/divyakadava61/Machine-Telemetry-Analysis-and-Gender-Pay-Equality-Classification-Using-Tableau-and-Excel/blob/main/Task%205%20Equality%20Table.xlsx"> Classified Equality Score Dataset </a>
+
 ## Conclusion
 
 ### Recommendations:
