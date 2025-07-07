@@ -52,6 +52,9 @@ Solving these problems was crucial for improving both equipment efficiency and w
 
 ![Machines_Downtime_by_Factory_Dashboard](https://github.com/user-attachments/assets/7f949534-ab8f-4927-a9e7-1d68373f6373)
 
+Link to access the dashboard:
+<a href= "https://public.tableau.com/views/Book1_17489831759250/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> Machines Downtime by Factory Dashboard </a>
+
 ### Part 2: Excel Classification (Equality Score)
 
 1. Task: Added a fourth column classifying the Equality Score into:
